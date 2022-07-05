@@ -1,0 +1,17 @@
+{
+
+  "suggest.noselect": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "Markdown",
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "graphql",
+    "html",
+    "css,"
+  ]
+}
+
+//"eslint.nodePath": "/home/gonzalo/.config/yarn/global/node_modules",
